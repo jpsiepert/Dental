@@ -1,0 +1,118 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	border: 0;
+}
+
+.headercontainer {
+	color: white;
+	background-color: #004E8e;
+	max-height: 10%;
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	border-bottom: 3px solid #369dd4;
+
+}
+
+.address {
+	border-right: 1px solid #369dd4;
+	padding-right: 10px;
+	display: inline-block;
+	text-align: center;
+}
+.icon {
+	display: inline-block;
+	margin-right: 3px;
+	margin-top: 3px;
+}
+.bluebackground {
+	background: #005AA3;
+	width: 100%;
+	border: 0;
+	margin: 0;
+}
+
+.maincontent {
+	background: #fff;
+	width: 80%;
+	border: 1px solid white;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-top: 5%;
+	display: inline-block;
+}
+.maincontent img {
+	max-width: 80%;
+	height: auto;
+}
+
+
+.banner {
+	display: inline-block;
+	height: 25%;
+}
+.welcomephoto {
+	height: 25%;
+	width: 80%;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+li {
+	display: inline;
+	padding-right: 10px;
+	text-align: center;
+}
+
+table {
+	display: inline;
+	max-width: 80%;
+	height: auto;
+}
+.link {
+	color: #464646;
+	font-weight: bold;
+}
+.class img {
+	width: 80%;
+	height: auto;
+}
+.staffphoto {
+	width: 80%;
+	height: auto;
+	margin-left: 15%;
+	margin-right: 10%;
+}
+
+.lotsoftext {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+iframe {
+	margin-right: 10%;
+	margin-left: 5%;
+	padding-bottom: 50px;
+}
+.bottomcontainer {
+	max-height: 10%;
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	color: white;
+}
+
+.bottomcontainer a {
+	color: white;
+}
+.border {
+	border-right: 1px solid white;
+	padding-right: 10px
+}
